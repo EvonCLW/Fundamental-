@@ -1,2 +1,0 @@
-# Fundamental-
-Basic python programs
